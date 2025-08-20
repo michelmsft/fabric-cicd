@@ -63,7 +63,8 @@ df.show(10, truncate=False)
 
 # CELL ********************
 
-display(df)
+df.show(10)
+
 
 # METADATA ********************
 
