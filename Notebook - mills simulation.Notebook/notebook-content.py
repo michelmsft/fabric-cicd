@@ -65,7 +65,6 @@ df.show(10, truncate=False)
 
 df.show(10)
 
-
 # METADATA ********************
 
 # META {
